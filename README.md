@@ -27,9 +27,3 @@ Open the Anaconda Prompt
 
 (might need to update some of the libraries. I needed to update matplotlib to use the arrow function)
 
-### Installing MA86
-
-Request an acadmic license from:
-http://www.hsl.rl.ac.uk/ipopt/
-
-
