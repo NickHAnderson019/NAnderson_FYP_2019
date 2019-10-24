@@ -4,6 +4,8 @@
 
 The folders are structured to show the different modeling methods used for the project: The hybrid dynamics method, "Hybrid Method" and the contact-implicit method, "Complementarity Method". The "Bouncing Ball" folder shows the development phases of the individual aspects of the system.
 
+### Install Guide
+
 In order to run the notebooks, the following steps should be taken:
 
 install anaconda
@@ -27,6 +29,7 @@ Open the Anaconda Prompt
 
 ### Installing MA86
 
-
+Request an acadmic license from:
+http://www.hsl.rl.ac.uk/ipopt/
 
 
