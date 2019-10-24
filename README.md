@@ -12,11 +12,15 @@ https://www.anaconda.com/distribution/
 Open the Anaconda Prompt
 
 \> conda install -c conda-forge pyomo
+
 \> conda install -c conda-forge pyomo.extras
-\> conda install -c conda-forge coincbc (this didn't work)
+
 \> conda install -c conda-forge ipopt
+
 \> conda install jupyter numpy matplotlib sympy
+
 \> conda install -c conda-forge ffmpeg
+
 \> conda install cloudpickle
 
 (might need to update some of the libraries. I needed to update matplotlib to use the arrow function)
