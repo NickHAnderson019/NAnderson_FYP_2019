@@ -8,8 +8,11 @@ The folders are structured to show the different modeling methods used for the p
 
 In order to run the notebooks, the following steps should be taken:
 
-install anaconda
+1. Install Anaconda
+
 https://www.anaconda.com/distribution/
+
+2. Install libraries using Anaconda
 
 Open the Anaconda Prompt
 
