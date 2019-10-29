@@ -1,8 +1,12 @@
 # NAnderson_FYP_2019
 
-### This repository contains the Python code for the final year project of Nick Anderson (ANDNIC019) prepared for the University of Cape Town.
+### This repository contains the Python code and report for the final year project of Nick Anderson (ANDNIC019) prepared for the University of Cape Town.
 
-The folders are structured to show the different modeling methods used for the project: The hybrid dynamics method, "Hybrid Method" and the contact-implicit method, "Complementarity Method". The "Bouncing Ball" folder shows the development phases of the individual aspects of the system.
+The folders are structured as follows:
+
+* The "Complementarity Method" folder includes the Python scripts used to develop the system to perform the ollie using the contact-implicit method.
+
+* The "Bouncing Ball" folder shows the development phases of the individual aspects of the system.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
