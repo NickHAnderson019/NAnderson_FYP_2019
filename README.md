@@ -36,3 +36,6 @@ Open the Anaconda Prompt
 
 (might need to update some of the libraries. I needed to update matplotlib to use the arrow function)
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
+If you want to get started with Pyomo and trajectory optimization. Contact Stacey Shield (SHLSTA001@myuct.ac.za) to request her introductory tutorials.   
