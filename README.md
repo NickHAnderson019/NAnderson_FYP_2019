@@ -1,6 +1,6 @@
 # NAnderson_FYP_2019
 
-### This repository contains the Python code and report for the final year project of Nick Anderson (ANDNIC019) prepared for the University of Cape Town.
+### This repository contains the Python code and report for the final year project of Nick Anderson (ANDNIC019) prepared for the University of Cape Town. It also includes the final poster, presentation and published RobMech paper. 
 
 The folders are structured as follows:
 
