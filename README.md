@@ -38,4 +38,4 @@ Open the Anaconda Prompt
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-If you want to get started with Pyomo and trajectory optimization. Contact Stacey Shield (SHLSTA001@myuct.ac.za) to request her introductory tutorials.   
+If you want to get started with Pyomo and trajectory optimization, contact Stacey Shield (SHLSTA001@myuct.ac.za) to request her introductory tutorials.   
