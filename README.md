@@ -2,6 +2,11 @@
 
 ### This repository contains the Python code and report for the final year project of Nick Anderson (ANDNIC019) prepared for the University of Cape Town. It also includes the final poster, presentation and published RobMech paper. 
 
+The final report: "EEE4022S_2019_FINAL_REPORT_ANDNIC019_ANDERSON_NH_PATEL.pdf"
+The Robmech peper: "RobMech_Paper_2019.pdf"
+The final presentation: "FYP_open_day_presentation.pptx"
+The final poster: "FYP_2019_poster_final.pdf"
+
 The folders are structured as follows:
 
 * The "Complementarity Method" folder includes the Python scripts used to develop the system to perform the ollie using the contact-implicit method.
